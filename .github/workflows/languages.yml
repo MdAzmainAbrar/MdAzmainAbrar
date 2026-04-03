@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: "0 0 * * *" # Runs automatically every night at midnight
   workflow_dispatch: # Allows you to run it manually
+
+# This is the new part that gives it permission to save the image!
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
