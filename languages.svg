@@ -6,25 +6,21 @@ on:
 permissions:
   contents: write
 jobs:
-  all-time:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
-          plugin_languages_limit: 5
-
-  recent:
-    runs-on: ubuntu-latest
-    steps:
+          # This first part makes the "All-Time" file
+          filename: languages.svg
+          
       - uses: lowlighter/metrics@latest
         with:
-          filename: recent-languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -33,3 +29,5 @@ jobs:
           plugin_languages_recent_days: 30
           plugin_languages_recent_load: 500
           plugin_languages_details: percentage
+          # This second part makes the "Recent" file
+          filename: recent-languages.svg
