@@ -23,9 +23,9 @@ I am a **Software Engineering Intern at Fakir Knitwears Ltd.** and a B.Sc. gradu
 **Tools:** ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Code Breakdown & Activity
-| **Language Percentages ** | **Contribution Streak** |
+| **Automatic Language Tracker** | **Contribution Streak** |
 |---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAzmainAbrar&layout=compact&theme=radical&count_private=true&hide=html,css) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAzmainAbrar&theme=radical) |
+| <img src="./languages.svg" width="300" alt="Language Progress Bars"> | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAzmainAbrar&theme=radical) |
 
 ### 📫 Let's Connect
 - **Email:** [abrarmain.aa@gmail.com](mailto:abrarmain.aa@gmail.com)
