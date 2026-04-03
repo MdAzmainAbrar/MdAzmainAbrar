@@ -22,10 +22,22 @@ I am a **Software Engineering Intern at Fakir Knitwears Ltd.** and a B.Sc. gradu
 
 **Tools:** ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Code Breakdown & Activity
-| **Automatic Language Tracker** | **Contribution Streak** |
-|---|---|
-| <img src="./languages.svg" width="300" alt="Language Progress Bars"> | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAzmainAbrar&theme=radical) |
+### 📊 Code Breakdown & Momentum
+<table border="0">
+  <tr>
+    <td>
+      <strong>All-Time Expertise</strong><br />
+      <img src="./languages.svg" width="380" alt="All-Time Languages">
+    </td>
+    <td>
+      <strong>Recent Activity (Last 30 Days)</strong><br />
+      <img src="./recent-languages.svg" width="380" alt="Recent Languages">
+    </td>
+  </tr>
+</table>
+
+### 🔥 Weekly Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdAzmainAbrar&theme=radical)
 
 ### 📫 Let's Connect
 - **Email:** [abrarmain.aa@gmail.com](mailto:abrarmain.aa@gmail.com)
