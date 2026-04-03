@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. All-Time Stats (The full history)
+      # 1. All-Time Stats
       - uses: lowlighter/metrics@latest
         with:
           filename: languages.svg
