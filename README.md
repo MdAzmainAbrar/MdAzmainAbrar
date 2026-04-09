@@ -33,4 +33,4 @@ I am a **Software Engineering Intern at Fakir Knitwears Ltd.** and a B.Sc. gradu
 ### 📫 Let's Connect
 - **Email:** [abrarmain.aa@gmail.com](mailto:abrarmain.aa@gmail.com)
 - **LinkedIn:** [Md Azmain Abrar](https://www.linkedin.com/in/md-azmain-abrar-001411245/)
-- **Location:** Bogura / Narayanganj, Bangladesh
+- **Location:** Bogura / Dhaka, Bangladesh.
