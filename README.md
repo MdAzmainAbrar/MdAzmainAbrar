@@ -1,6 +1,6 @@
 # Hi, I'm Azmain Abrar (Nion) 👋
 
-I am a **Software Engineering Intern at Fakir Knitwears Ltd.** and a B.Sc. graduate in **Information and Communication Engineering** from East West University. I am focused on developing scalable backend solutions with .NET and exploring the use of Computer Vision and CCTV to improve industrial security.
+I am a B.Sc. graduate in **Information and Communication Engineering** from East West University. I just finished my **Software Engineering Intern at Fakir Knitwears Ltd.** and currently open to work. I am focused on developing scalable backend solutions with .NET and exploring the use of Computer Vision and CCTV to improve industrial security.
 
 ---
 
