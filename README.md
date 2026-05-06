@@ -33,4 +33,4 @@ I am a B.Sc. graduate in **Information and Communication Engineering** from East
 ### 📫 Let's Connect
 - **Email:** [abrarmain.aa@gmail.com](mailto:abrarmain.aa@gmail.com)
 - **LinkedIn:** [Md Azmain Abrar](https://www.linkedin.com/in/md-azmain-abrar-001411245/)
-- **Location:** Bogura / Dhaka, Bangladesh.
+- **Location:** Dhaka , Bangladesh.
